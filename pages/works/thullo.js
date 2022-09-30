@@ -19,7 +19,7 @@ const Work = () => (
             <List ml={4} my={4}>
                 <ListItem>
                     <Meta>Website</Meta>
-                    <Link target={'_blank'} href="https://trello-react-clone.netlify.app/login">
+                    <Link target={'_blank'} href="https://thullo-wavp.vercel.app">
                         https://trello-react-clone.netlify.app <ExternalLinkIcon mx="2px" />
                     </Link>
                 </ListItem>
